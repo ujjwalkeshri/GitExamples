@@ -3,5 +3,10 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("New change");
+
+        System.out.println("Iam making changes to feature branch to explain branching concept");
+        System.out.println("Iam making changes to feature branch to explain branching concept");
+        System.out.println("Iam making changes to feature branch to explain branching concept");
+        System.out.println("Iam making changes to feature branch to explain branching concept");
     }
 }
