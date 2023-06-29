@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("New change");
+
+        System.out.println("This is changes made as part of emergency fix");
     }
 }
